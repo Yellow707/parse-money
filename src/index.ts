@@ -8,7 +8,7 @@ const symbols: {
   USD: ["$", "US$", "US dollars", "USD"],
   GBP: ["£", "GBP"],
   EUR: ["€", "Euro", "EUR"],
-  RUB: ["руб", "RUB"],
+  RUB: ["₽", "руб", "RUB"],
   ILS: ["₪", "ILS"],
 };
 
